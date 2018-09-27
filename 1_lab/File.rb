@@ -43,4 +43,4 @@ end
 
 path = '../doc/naselenie.csv'
 obj = Stat.new.file(path, 2)
-Stat.new.compute
+Stat.new.compute.obj
