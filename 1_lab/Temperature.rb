@@ -1,5 +1,5 @@
-class WorkWithDegrees
-def Gr
+class Temperature
+def Tem
   
   puts 'Введиет значение градусов: '
   gr = gets.chomp.to_f
@@ -48,4 +48,4 @@ end
 
 end
 
-WorkWithDegrees.new.Gr
+Temperature.new.Tem

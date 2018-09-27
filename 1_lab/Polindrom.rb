@@ -1,4 +1,4 @@
-class Polin
+class Polindrom
 
 def revers(string)
 
@@ -9,7 +9,7 @@ def revers(string)
 
 end
 
-def Poli
+def Polin
 
 	puts 'Введите первую строку: '
 	str_1 = gets.chomp
@@ -27,4 +27,4 @@ def Poli
 end
 end
 
-Polin.new.Poli
+Polindrom.new.Polin
